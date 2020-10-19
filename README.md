@@ -1,15 +1,16 @@
-##CODE WORDS - MATLAB Version
-###Author: Sam Chamberlin
-###Date: December 13, 2018
+## CODE WORDS
+### Author: Sam Chamberlin
+#### Date: December 13, 2018
 
 This game is a virtual version of the popular "Code Names" created by Vlaada Chvatil.
 
+#### Game Instructions
 This is a multiplayer game that requires 4+ players. The players separate 
-into two teams, Red and Blue. Each team chooses a team captain to be the
-hint giver. The captains take a picture of the Answer Board that reveals
-which words are connected to their respective teams. Then the captains hide
-the Answer Board so that the other players can't see the answers. Whenever 
-the blue team captain is ready, he may give a one-word hint as well as the 
+into two teams, Red and Blue, and select a game genre (Original, Star Wars, or Disney). 
+Each team then chooses a team captain to be the hint giver. The captains take a picture of 
+the Answer Board that revealswhich words are connected to their respective teams. Then 
+the captains hide the Answer Board so that the other players can't see the answers. 
+Whenever the blue team captain is ready, he may give a one-word hint as well as the 
 number of words he is connecting. He is attempting to connect as many blue 
 words as he can with a single one-word hint. The players guess one word at 
 a time. Once a word has been guessed, the captain of that team will then
@@ -22,4 +23,5 @@ a word for the other team, then their turn ends immediately. If either team
 guesses the black word, then they lose. First team to guess successfully all of
 their code words wins!
 
+#### Example Game Board
 ![picture](resources/example.png)
