@@ -1,6 +1,6 @@
-CODE WORDS - MATLAB Version
-Author: Sam Chamberlin
-Date: December 13, 2018
+##CODE WORDS - MATLAB Version
+###Author: Sam Chamberlin
+###Date: December 13, 2018
 
 This game is a virtual version of the popular "Code Names" created by Vlaada Chvatil.
 
