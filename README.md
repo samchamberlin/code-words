@@ -22,5 +22,4 @@ a word for the other team, then their turn ends immediately. If either team
 guesses the black word, then they lose. First team to guess successfully all of
 their code words wins!
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![alt text](https://github.com/samchamberlin/code-words/resources/example.png?raw=true)
