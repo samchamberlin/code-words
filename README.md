@@ -23,5 +23,8 @@ a word for the other team, then their turn ends immediately. If either team
 guesses the black word, then they lose. First team to guess successfully all of
 their code words wins!
 
+#### To Start Playing
+Download the source files and run codeWords.m in MATLAB.
+
 #### Example Game Board
 ![picture](resources/example.png)
